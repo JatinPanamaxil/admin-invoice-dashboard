@@ -1,0 +1,2 @@
+20240529	21:21:45	20a66819-8af2-42de-bd62-551fa9393dde	OPTIONS	http://localhost:3000	/register
+20240529	21:21:45	c53ae876-9459-45b7-b0e9-d5b766438271	POST	http://localhost:3000	/register
